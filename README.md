@@ -1,2 +1,2 @@
 # portfolio
-This repository is all about my portsolio
+This repository is all about my portfolio
